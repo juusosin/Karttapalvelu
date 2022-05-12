@@ -1,0 +1,1 @@
+var json_Hotelli_1 = {"type":"FeatureCollection","name":"Hotelli_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nimi":"Hotelli"},"geometry":{"type":"Point","coordinates":[23.920333156665279,35.517223697710094]}}]}
